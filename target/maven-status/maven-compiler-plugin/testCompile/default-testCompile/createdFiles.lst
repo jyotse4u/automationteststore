@@ -6,6 +6,7 @@ utilities\ExcelUtility.class
 testBase\BaseClass.class
 testCases\TC002_LoginTest.class
 testCases\TC001_AccountRegistrationTest.class
+testCases\TC004_test.class
 pageObjects\BasePage.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class

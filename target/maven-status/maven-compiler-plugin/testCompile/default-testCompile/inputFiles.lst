@@ -1,13 +1,14 @@
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\AccountLogin.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\BasePage.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\CreateAccount.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\HomePage.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\MyAccount.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\pageObjects\RegistrationSuccess.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\testBase\BaseClass.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\testCases\TC001_AccountRegistrationTest.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\testCases\TC002_LoginTest.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\testCases\TC003_LoginTestDDT.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\utilities\DataProviders.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\utilities\ExcelUtility.java
-F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\src\test\java\utilities\ExtentReportManager.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\AccountLogin.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\BasePage.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\CreateAccount.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\HomePage.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\MyAccount.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\pageObjects\RegistrationSuccess.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\testBase\BaseClass.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\testCases\TC001_AccountRegistrationTest.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\testCases\TC002_LoginTest.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\testCases\TC003_LoginTestDDT.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\testCases\TC004_test.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\utilities\DataProviders.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\utilities\ExcelUtility.java
+F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\src\test\java\utilities\ExtentReportManager.java

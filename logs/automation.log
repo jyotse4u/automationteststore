@@ -30,3 +30,24 @@
 12:09:01.125 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
 12:09:05.377 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
 12:09:09.228 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+19:05:11.480 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+19:05:26.197 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+19:05:27.705 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+19:05:28.507 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+19:05:28.521 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+19:05:34.579 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+19:05:34.726 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+19:05:45.129 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+19:05:46.956 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+19:05:49.896 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+19:19:45.613 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\master.xml"
+19:19:48.176 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\master.xml
+
+19:20:07.567 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+19:20:09.610 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+19:20:11.663 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+19:23:33.459 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\LearnSelenium\Javapractise\E2EProjectVer2.0\master.xml"
+19:23:51.149 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+19:23:52.676 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+19:23:54.920 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
