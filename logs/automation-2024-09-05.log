@@ -1,0 +1,427 @@
+14:19:59.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+14:19:59.627 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:19:59.661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+14:19:59.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:19:59.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+14:19:59.684 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:20:00.831 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+14:20:05.257 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+14:20:18.017 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+14:20:31.511 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+14:20:36.004 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+14:21:34.667 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml"
+14:21:35.808 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml
+
+14:22:23.372 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:22:23.372 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:22:25.379 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:22:27.152 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:22:27.202 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:22:34.709 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:22:36.503 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:23:35.463 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml"
+14:23:36.107 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml
+
+14:23:57.497 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:23:57.496 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:23:58.836 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:24:01.183 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:24:01.217 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:24:37.333 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:24:39.231 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:24:41.422 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:24:41.425 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:24:46.398 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+14:24:46.661 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+14:25:23.131 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml"
+14:25:23.946 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\crossbrowser.xml
+
+14:25:34.874 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:25:35.943 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:25:37.065 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:25:37.098 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:25:41.377 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+14:25:41.528 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+14:25:59.648 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:26:00.785 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:26:01.943 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:26:01.948 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:26:06.849 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+14:26:06.910 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+14:26:26.121 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:26:28.138 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:26:29.386 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:26:29.388 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:26:34.207 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+14:26:34.287 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+14:31:04.810 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\test-output\testng-failed.xml"
+14:31:05.512 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\test-output\testng-failed.xml
+
+14:31:52.856 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:31:52.939 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+14:31:55.324 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+14:31:57.378 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+14:31:57.424 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+14:34:22.092 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:34:22.756 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:34:35.256 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:34:36.659 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+14:34:38.080 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+14:35:54.093 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:35:54.803 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:36:05.656 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:36:07.286 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+14:36:08.835 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+14:37:55.602 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:37:56.171 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:38:08.725 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:38:11.237 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+14:38:19.682 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+14:39:43.237 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:39:43.951 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:39:56.558 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:39:58.486 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+14:40:00.477 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+14:41:05.788 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:41:06.450 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:41:19.959 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:41:21.601 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+14:41:24.310 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+14:45:45.145 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+14:45:45.858 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+14:45:57.190 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+14:45:58.361 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+17:34:06.846 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\test-output\testng-failed.xml"
+17:34:08.704 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\test-output\testng-failed.xml
+
+17:34:31.998 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+17:34:33.920 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+17:34:36.229 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+17:41:04.914 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+17:41:05.578 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+17:41:17.288 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+17:41:18.423 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+17:48:36.022 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+17:48:36.819 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+17:48:50.756 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+17:48:52.045 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+17:48:53.766 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+17:59:58.220 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+17:59:59.090 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+18:00:13.545 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+18:00:14.880 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+18:00:16.534 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+18:00:25.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:25.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:25.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:26.945 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.137 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.163 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.182 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.241 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.297 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.344 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.382 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.428 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.488 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.561 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.612 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.643 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.677 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.757 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.793 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.818 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.867 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.925 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:27.953 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:00:27.955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:00:27.956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:00:27.973 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:00:28.920 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:00:32.111 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:00:34.023 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:00:35.900 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:00:38.953 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:03:26.276 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+18:03:27.103 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+18:03:41.921 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+18:03:43.646 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+18:03:45.468 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+18:04:00.470 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:00.475 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:00.477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:01.368 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:01.715 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:01.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:01.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:01.750 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:01.795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:01.797 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:01.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:01.840 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:01.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:01.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:01.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:01.924 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:01.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:01.980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:01.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.063 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.167 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.223 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.256 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.279 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.334 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.368 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.387 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.413 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.415 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.437 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.478 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.501 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.520 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.544 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.563 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.587 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.604 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.624 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.628 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.642 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:02.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:04:02.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:04:02.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:04:02.683 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:04:03.543 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:04:06.934 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:04:09.751 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:04:13.550 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:04:17.760 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:05:47.417 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml"
+18:05:48.920 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\grouping.xml
+
+18:06:16.935 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+18:06:19.801 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+18:06:21.997 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+18:06:37.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:37.942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:37.947 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:40.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:40.782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:40.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:40.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:40.868 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:40.942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:40.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:40.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:41.126 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:41.555 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:41.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:41.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:41.643 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:41.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:41.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:41.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:41.803 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:42.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:42.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:42.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:42.254 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:42.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:42.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:42.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:42.713 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:42.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:42.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:42.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:42.829 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:42.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:42.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:42.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:42.998 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.060 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.092 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.176 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.229 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.230 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.263 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.347 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.400 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.450 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.501 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.594 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.647 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:43.679 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+18:06:43.681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:06:43.684 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+18:06:43.735 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:06:45.035 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:06:51.127 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:06:54.252 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:06:58.581 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+18:07:03.454 [main] INFO  testCases.TC003_LoginTestDDT Clicked on Login/Registration button in Homepage
+23:52:55.955 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+23:52:57.478 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml
+
+23:54:40.096 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+23:54:41.311 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml
+
+23:54:57.678 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+23:55:02.697 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+23:55:04.323 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+23:55:53.036 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+23:55:53.652 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml
+
+23:56:17.755 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+23:56:18.864 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+23:56:22.302 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+11:16:30.551 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:16:32.134 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:17:23.402 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:17:25.926 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+11:17:28.358 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+11:18:02.118 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:18:03.670 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:18:27.028 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:18:29.155 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+11:18:31.844 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+11:19:02.864 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:19:03.916 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:19:23.627 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:19:25.821 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+11:22:59.405 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:23:03.583 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:23:09.784 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:23:11.398 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:38:15.416 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml"
+11:38:16.744 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\masterlinux.xml
+
+11:47:46.917 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+11:47:48.378 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml
+
+11:48:11.072 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:48:12.546 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+11:48:14.263 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+11:55:13.296 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"

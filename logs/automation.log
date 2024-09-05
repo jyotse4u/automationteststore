@@ -1,0 +1,32 @@
+11:55:31.259 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+11:55:45.339 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:56:51.118 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+11:57:00.502 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+11:57:01.466 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+11:57:02.069 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+11:57:02.089 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+11:57:06.943 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+11:57:07.052 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+11:57:14.165 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+11:57:15.278 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+11:57:16.825 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+12:01:18.185 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+12:01:37.632 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+12:01:38.668 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+12:01:40.642 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+12:01:40.681 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+12:01:45.212 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+12:01:45.401 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+12:01:59.251 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+12:02:00.241 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+12:02:02.303 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
+12:08:33.813 [main] DEBUG org.testng.TestNG suiteXmlPath: "F:\Codes\Learn Selenium\Java practise\E2EProjectVer2.0\master.xml"
+12:08:45.487 [main] INFO  testCases.TC001_AccountRegistrationTest **********Starting TC001_AccountRegistrationTest*******
+12:08:46.562 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Login/Registration button in Homepage
+12:08:47.175 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Continue button in Account Login page
+12:08:47.215 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details
+12:08:51.498 [main] INFO  testCases.TC001_AccountRegistrationTest Validation expected message in success page
+12:08:51.618 [main] INFO  testCases.TC001_AccountRegistrationTest **********Finished TC001_AccountRegistrationTest*******
+12:09:01.125 [main] INFO  testCases.TC002_LoginTest **********Starting TC002_LoginTest*******
+12:09:05.377 [main] INFO  testCases.TC002_LoginTest Clicked on Login/Registration button in Homepage
+12:09:09.228 [main] INFO  testCases.TC002_LoginTest **********Finishing TC002_LoginTest*******
